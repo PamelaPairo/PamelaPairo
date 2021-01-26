@@ -1,5 +1,8 @@
 ### Hi, Hola! 👋
 
+- 🔭 I’m currently working on analizing the impact of human activities on biodiversity.
+- 🌱 I’m currently learning more about RSpatial
+
 <!--
 **PamelaPairo/PamelaPairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
