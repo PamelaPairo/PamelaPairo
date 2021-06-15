@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on analizing the impact of human activities on biodiversity and spatial epidemiology.
-- 🌱 I’m currently learning more about RSpatial in Argentina National Space Activities Commission (CONAE).
-- 📊 I'm studying a graduate diploma in Data Science, Machine Learning and its applications at FAMAF, University of Córdoba.
+- 🌱 I’m currently learning more about RSpatial and Google Earth Engine in Argentina National Space Activities Commission (CONAE).
+- 📊 I'm studying a graduate Diploma in Data Science, Machine Learning and its applications at FAMAF, University of Córdoba.
 
 - 📫 How to reach me: twitter: [@PamePairo](https://twitter.com/PamePairo)
                        email: pamepairo@gmail.com
