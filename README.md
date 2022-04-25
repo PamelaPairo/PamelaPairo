@@ -1,13 +1,14 @@
 ### Hi, Hola! 👋
 
 
-- 🔭 I’m currently working on analizing the impact of human activities on biodiversity and spatial epidemiology.
-- 🌱 I’m currently learning more about RSpatial and Google Earth Engine in Argentina National Space Activities Commission (CONAE).
-- 📊 I'm studying a graduate Diploma in Data Science, Machine Learning and its applications at FAMAF, University of Córdoba.
+- 🔭 I’m currently working as Geospatial Data Scientist in AFIP.
+- 📊 I'm teaching assistant in statistics and machine learning at UADE and UBA.
 
-- 📫 How to reach me: twitter: [@PamePairo](https://twitter.com/PamePairo)
-                       email: pamepairo@gmail.com
-                       [LinkedIn](https://www.linkedin.com/in/pamela-e-pairo-5a2004202/)
+📫 How to reach me: 
+
+- twitter: [@PamePairo](https://twitter.com/PamePairo)
+- email: pamepairo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/pamela-e-pairo-5a2004202/)
 
 <!--
 **PamelaPairo/PamelaPairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
