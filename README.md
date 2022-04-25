@@ -1,7 +1,7 @@
 ### Hi, Hola! 👋
 
 
-- 🔭 I’m currently working as Geospatial Data Scientist in AFIP.
+- 🔭 I’m currently working as Geospatial Data Scientist in the Department of Systems Architecture - GIS Section -AFIP.
 - 📊 I'm teaching assistant in statistics and machine learning at UADE and UBA.
 
 📫 How to reach me: 
