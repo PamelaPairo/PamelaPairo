@@ -1,8 +1,9 @@
 ### Hi, Hola! 👋
 
-
+- 🎓 I'm PhD in Biological Sciences (University of Buenos Aires) and I have a Graduate Diploma in Data Science, Machine Learning and its Applications (National University of Córdoba, Argentina).
 - 🔭 I’m currently working as Geospatial Data Scientist in the Department of Systems Architecture - GIS Section -AFIP.
-- 📊 I'm teaching assistant in statistics and machine learning at UADE and UBA.
+- 📊 I'm teaching assistant in statistics and machine learning at UADE and UBA
+- 👩‍🏫 I’m a Software Carpentries Certified Instructor
 
 📫 How to reach me: 
 
